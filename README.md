@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>📁 Project template</h1>
-  <p>Template for TypeScript projects</p>
+  <h1>📊 Mermaid graph file structure generator</h1>
+  <p>Generates mermaid graphs for file structures</p>
 
 <a href="/LICENSE">
   <img alt="GitHub" src="https://img.shields.io/github/license/morgandilling/ts-node-project-template?style=for-the-badge">
